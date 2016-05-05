@@ -48,4 +48,20 @@ My name is `吴雷洋`,就是这么`酷炫`！
 `[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"//这里是图片地址`  
 [![baidu]](http://baidu.com/)
 [baidu]:http://i1.sinaimg.cn/dy/deco/2013/0329/logo/LOGO_1x.png "我是新浪微博"  
- 
+####插入代码
+ 插入代码用1左边、tab上边的键三个分两行将代码包起来，如：  
+
+ ```PHP
+ echo "Helo GitHub"
+ ```
+ ```html
+ <html>
+ <head>
+ <meta charset="utf-8" />
+ <title>Demo</title>
+ </head>
+ <body>
+  <p>我是HTML代码</p>
+ </body
+ </html>
+ ```
