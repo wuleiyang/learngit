@@ -38,4 +38,14 @@ My name is `吴雷洋`,就是这么`酷炫`！
 1、叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL    
   `![](http://i1.sinaimg.cn/dy/deco/2013/0329/logo/LOGO_1x.png)`    
   在中括号里添加内容并不会对图片造成任何影响，我推测可能是给编者预留的注释的地方，如果想加鼠标悬停的效果，可以仿照链接的添加方式在后面添加    
-  ![新浪微博Logo](http://i1.sinaimg.cn/dy/deco/2013/0329/logo/LOGO_1x.png "我是新浪微博")
+  ![新浪微博Logo](http://i1.sinaimg.cn/dy/deco/2013/0329/logo/LOGO_1x.png "我是新浪微博")  
+2、还可以加载Github仓库里的图片，格式和上边基本一致，方法如下：  
+  `https://github.com / 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片`  
+  `![](https://github.com/wuleiyang/learngit/raw/master/Logo/foryou.gif)`  
+  暂时没有图片，不展示了  
+ 3、如果想给图片添加指定链接可以这样：  
+`[![baidu]](http://baidu.com)//括弧仔细看格式哦，这里是目标链接`  
+`[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"//这里是图片地址`  
+[![baidu]](http://baidu.com/)
+[baidu]:http://i1.sinaimg.cn/dy/deco/2013/0329/logo/LOGO_1x.png "我是新浪微博"  
+ 
