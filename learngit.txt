@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple ++.
 add line9
 add line10
 add line11
+²âÊÔstash
